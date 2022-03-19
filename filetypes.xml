@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="fit" type="PLAIN_TEXT" />
       <mapping ext="gpx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
