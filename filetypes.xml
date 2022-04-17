@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="fit" type="PLAIN_TEXT" />
       <mapping ext="gpx" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
