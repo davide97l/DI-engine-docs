@@ -5,6 +5,7 @@
       <mapping pattern="notes" type="AUTO_DETECTED" />
       <mapping pattern="example" type="AUTO_DETECTED" />
       <mapping pattern="test_mt.py" type="AUTO_DETECTED" />
+      <mapping ext="pem" type="AUTO_DETECTED" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="gpx" type="PLAIN_TEXT" />
       <mapping ext="fit" type="PLAIN_TEXT" />
