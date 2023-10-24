@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="instructions" type="AUTO_DETECTED" />
+      <mapping pattern="zh1" type="AUTO_DETECTED" />
       <mapping pattern="notes" type="AUTO_DETECTED" />
       <mapping pattern="4_prompt" type="AUTO_DETECTED" />
       <mapping pattern="speechtotext_flask" type="AUTO_DETECTED" />
