@@ -14,6 +14,7 @@
       <mapping pattern="2_prompt" type="AUTO_DETECTED" />
       <mapping pattern="3_prompt" type="AUTO_DETECTED" />
       <mapping pattern="client_secret" type="AUTO_DETECTED" />
+      <mapping pattern="categories" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="tornado" type="AUTO_DETECTED" />
       <mapping pattern="text_to_img_tornado" type="AUTO_DETECTED" />
