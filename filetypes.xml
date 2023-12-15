@@ -6,12 +6,14 @@
       <mapping pattern="notes" type="AUTO_DETECTED" />
       <mapping pattern="4_prompt" type="AUTO_DETECTED" />
       <mapping pattern="speechtotext_flask" type="AUTO_DETECTED" />
+      <mapping pattern="client_id" type="AUTO_DETECTED" />
       <mapping pattern="example" type="AUTO_DETECTED" />
       <mapping pattern="1_prompt" type="AUTO_DETECTED" />
       <mapping pattern="test_mt.py" type="AUTO_DETECTED" />
       <mapping pattern="requirements.txt" type="AUTO_DETECTED" />
       <mapping pattern="2_prompt" type="AUTO_DETECTED" />
       <mapping pattern="3_prompt" type="AUTO_DETECTED" />
+      <mapping pattern="client_secret" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="tornado" type="AUTO_DETECTED" />
       <mapping pattern="text_to_img_tornado" type="AUTO_DETECTED" />
