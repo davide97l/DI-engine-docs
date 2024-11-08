@@ -25,6 +25,7 @@
       <mapping ext="pem" type="AUTO_DETECTED" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="ass" type="PLAIN_TEXT" />
+      <mapping ext="faiss" type="PLAIN_TEXT" />
       <mapping ext="gpx" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
