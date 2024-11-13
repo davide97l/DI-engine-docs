@@ -13,6 +13,7 @@
       <mapping pattern="requirements.txt" type="AUTO_DETECTED" />
       <mapping pattern="2_prompt" type="AUTO_DETECTED" />
       <mapping pattern="3_prompt" type="AUTO_DETECTED" />
+      <mapping pattern="news.json" type="AUTO_DETECTED" />
       <mapping pattern="client_secret" type="AUTO_DETECTED" />
       <mapping pattern="categories" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
