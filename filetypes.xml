@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="dd" type="AUTO_DETECTED" />
       <mapping pattern="instructions" type="AUTO_DETECTED" />
       <mapping pattern="zh1" type="AUTO_DETECTED" />
       <mapping pattern="notes" type="AUTO_DETECTED" />
