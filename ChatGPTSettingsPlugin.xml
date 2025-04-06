@@ -1,0 +1,21 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <contentStatesNoChatGPT>
+      <list>
+        <ChatGPTContentState>
+          <enable>true</enable>
+          <content>EasyCode</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>1</order>
+          <enable>true</enable>
+          <content>GPT-3.5-Turbo</content>
+        </ChatGPTContentState>
+      </list>
+    </contentStatesNoChatGPT>
+    <option name="easyCodeAccessToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQzOTQ0Mjk1LCJpYXQiOjE3NDM5NDMzOTUsImp0aSI6ImRhZjFhMjgzOTE4ZjRmNWFhYjBhNzBhZGZiZjk5YmI2IiwidXNlcl9pZCI6Nzg1OTI2fQ.JoR6a29r7KslAOimDDnFFEgI2_N1ARTfL-UrQaFhHBk" />
+    <option name="easyCodeRefreshToken" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0NTE1Mjk5NSwiaWF0IjoxNzQzOTQzMzk1LCJqdGkiOiI5OTgxMDE5NTBhMmE0MTY3OGI2ZGY4MmUxZTdiMzVlOSIsInVzZXJfaWQiOjc4NTkyNn0.jB5rkOgWwUbsUSlQsW4RKCZBJEJ7cspnEylkgwIPrH4" />
+    <option name="easyCodeUserEmail" value="davide97ls@gmail.com" />
+    <option name="easyCodeHistoryConversationModel" />
+  </component>
+</application>
