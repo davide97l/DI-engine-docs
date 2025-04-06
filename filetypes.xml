@@ -35,6 +35,7 @@
       <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="MyNativeFile" />
       <removed_mapping ext="csv" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
